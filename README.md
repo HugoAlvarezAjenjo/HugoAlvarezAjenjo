@@ -19,7 +19,7 @@ My primary languaje is Java althought since I discover Kotlin I loved the sintax
 </br>
 [![Java](https://img.shields.io/badge/Java-eb5428?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-c921b0?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/Visual_Basic-278022?style=for-the-badge&logo=visualbasic&logoColor=white&labelColor=101010)]()
+[![VBA](https://img.shields.io/badge/Visual_Basic_A-278022?style=for-the-badge&logo=visualbasic&logoColor=white&labelColor=101010)]()
 </br>
 [![Git](https://img.shields.io/badge/Git-e84e31?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![Github](https://img.shields.io/badge/GitHub-007396?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
