@@ -2,7 +2,15 @@
 
 ## About Me
 
-I'm a first-year software engineering student at UPM. I'm passionate about programming and love learning new technologies. Currently, I'm focused on improving my skills in Java and Kotlin, and I have some experience in mobile app development on Android.
+I'm a secon-year software engineering student at UPM. I'm passionate about programming and love learning new technologies.
+
+In my free time, I enjoy diving into personal projects that challenge me and push me to learn new things. But my journey doesn't stop here; my long-term goal is to become a highly competent software engineer and continue exploring the endless possibilities that this exciting field offers.
+
+My primary languaje is Java althought since I discover Kotlin I loved the sintax. Nowadays I'm focused of learning new technologies like databases with SQL or Springboot for web development.
+
+[![Mi Web](https://img.shields.io/badge/Mi%20Web-c8cf4e?style=for-the-badge
+)](https://hugoalvarezajenjo.github.io/)
+
 
 ## Technologies
 
@@ -11,6 +19,7 @@ I'm a first-year software engineering student at UPM. I'm passionate about progr
 </br>
 [![Java](https://img.shields.io/badge/Java-eb5428?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-c921b0?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+[![Kotlin](https://img.shields.io/badge/Visual_Basic-278022?style=for-the-badge&logo=visualbasic&logoColor=white&labelColor=101010)]()
 </br>
 [![Git](https://img.shields.io/badge/Git-e84e31?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![Github](https://img.shields.io/badge/GitHub-007396?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
