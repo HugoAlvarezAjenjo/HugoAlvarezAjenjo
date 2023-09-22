@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a secon-year software engineering student at UPM. I'm passionate about programming and love learning new technologies.
+I'm a second-year software engineering student at UPM. I'm passionate about programming and love learning new technologies.
 
 In my free time, I enjoy diving into personal projects that challenge me and push me to learn new things. But my journey doesn't stop here; my long-term goal is to become a highly competent software engineer and continue exploring the endless possibilities that this exciting field offers.
 
