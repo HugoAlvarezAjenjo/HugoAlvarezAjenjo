@@ -23,3 +23,10 @@ My primary languaje is Java althought since I discover Kotlin I loved the sintax
 </br>
 [![Git](https://img.shields.io/badge/Git-e84e31?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![Github](https://img.shields.io/badge/GitHub-007396?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
+
+---
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HugoAlvarezAjenjo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HugoAlvarezAjenjo&layout=compact&langs_count=8&theme=algolia"/>
+</p>
