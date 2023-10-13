@@ -12,8 +12,7 @@ My primary languaje is Java althought since I discover Kotlin I loved the sintax
 )](https://hugoalvarezajenjo.github.io/)
 
 
-## Technologies
-
+## 💻 Basic Tech Stack:
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 [![Intelij IDEA](https://img.shields.io/badge/InteliJ_IDEA-f1325f?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=101010)]()
 </br>
@@ -24,9 +23,12 @@ My primary languaje is Java althought since I discover Kotlin I loved the sintax
 [![Git](https://img.shields.io/badge/Git-e84e31?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![Github](https://img.shields.io/badge/GitHub-007396?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 
----
 
+## 📊 GitHub Stats:
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HugoAlvarezAjenjo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HugoAlvarezAjenjo&layout=compact&langs_count=8&theme=algolia"/>
 </p>
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HugoAlvarezAjenjo&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
