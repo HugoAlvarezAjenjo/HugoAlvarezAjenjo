@@ -26,8 +26,8 @@ My primary languaje is Java althought since I discover Kotlin I loved the sintax
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HugoAlvarezAjenjo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HugoAlvarezAjenjo&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HugoAlvarezAjenjo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HugoAlvarezAjenjo&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 ### 🏆 GitHub Trophies
