@@ -17,13 +17,14 @@ My primary languaje is Java althought since I discover Kotlin I loved the sintax
 [![Intelij IDEA](https://img.shields.io/badge/InteliJ_IDEA-f1325f?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=101010)]()
 </br>
 [![Java](https://img.shields.io/badge/Java-eb5428?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-c921b0?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![VBA](https://img.shields.io/badge/Visual_Basic_A-278022?style=for-the-badge&logo=visualbasic&logoColor=white&labelColor=101010)]()
 </br>
 [![SQL](https://img.shields.io/badge/SQL-dc7939?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)]()
-[![MySql](https://img.shields.io/badge/MySql-015b85?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![MySql](https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)]()
 </br>
-[![Git](https://img.shields.io/badge/Git-e84e31?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![Github](https://img.shields.io/badge/GitHub-007396?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 
 
