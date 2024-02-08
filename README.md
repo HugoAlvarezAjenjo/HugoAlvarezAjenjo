@@ -23,7 +23,7 @@ I'm a second-year software engineering student at UPM. I'm passionate about prog
 ## 📊 GitHub Stats:
 <p align="center">
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HugoAlvarezAjenjo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HugoAlvarezAjenjo&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HugoAlvarezAjenjo&layout=compact&langs_count=8&theme=algolia&hide=javascript,scss"/>
 </p>
 
 ### 🏆 GitHub Trophies
