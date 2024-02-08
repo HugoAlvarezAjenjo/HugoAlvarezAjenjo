@@ -4,14 +4,6 @@
 
 I'm a second-year software engineering student at UPM. I'm passionate about programming and love learning new technologies.
 
-In my free time, I enjoy diving into personal projects that challenge me and push me to learn new things. But my journey doesn't stop here; my long-term goal is to become a highly competent software engineer and continue exploring the endless possibilities that this exciting field offers.
-
-My primary languaje is Java althought since I discover Kotlin I loved the sintax. Nowadays I'm focused of learning new technologies like databases with SQL or Springboot for web development.
-
-[![Mi Web](https://img.shields.io/badge/Mi%20Web-c8cf4e?style=for-the-badge
-)](https://hugoalvarezajenjo.github.io/)
-
-
 ## 💻 Basic Tech Stack:
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 [![Intelij IDEA](https://img.shields.io/badge/InteliJ_IDEA-f1325f?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=101010)]()
