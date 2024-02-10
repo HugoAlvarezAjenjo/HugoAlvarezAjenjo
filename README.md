@@ -10,6 +10,7 @@ I'm a second-year software engineering student at UPM. I'm passionate about prog
 </br>
 [![Java](https://img.shields.io/badge/Java-eb5428?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+![Scala](https://img.shields.io/badge/Scala-d73222?style=for-the-badge&logo=scala&logoColor=white&labelColor=101010)
 [![VBA](https://img.shields.io/badge/Visual_Basic_A-278022?style=for-the-badge&logo=visualbasic&logoColor=white&labelColor=101010)]()
 </br>
 [![SQL](https://img.shields.io/badge/SQL-dc7939?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)]()
@@ -18,6 +19,10 @@ I'm a second-year software engineering student at UPM. I'm passionate about prog
 </br>
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![Github](https://img.shields.io/badge/GitHub-007396?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
+<br>
+![LaTex](https://img.shields.io/badge/LaTex-008080?style=for-the-badge&logo=latex&logoColor=white&labelColor=101010)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white&labelColor=101010)
+
 
 
 ## 📊 GitHub Stats:
