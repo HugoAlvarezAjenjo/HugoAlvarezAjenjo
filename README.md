@@ -11,7 +11,6 @@ I'm a second-year software engineering student at UPM. I'm passionate about prog
 [![Java](https://img.shields.io/badge/Java-eb5428?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 ![Scala](https://img.shields.io/badge/Scala-d73222?style=for-the-badge&logo=scala&logoColor=white&labelColor=101010)
-[![VBA](https://img.shields.io/badge/Visual_Basic_A-278022?style=for-the-badge&logo=visualbasic&logoColor=white&labelColor=101010)]()
 </br>
 [![SQL](https://img.shields.io/badge/SQL-dc7939?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)]()
 [![MySql](https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
