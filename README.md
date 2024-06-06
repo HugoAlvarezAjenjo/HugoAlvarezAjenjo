@@ -7,6 +7,7 @@ I'm a second-year software engineering student at UPM. I'm passionate about prog
 ## 💻 Basic Tech Stack:
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 [![Intelij IDEA](https://img.shields.io/badge/InteliJ_IDEA-f1325f?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=101010)]()
+[![NeoVim](https://img.shields.io/badge/NeoVim-80b758?style=for-the-badge&logo=neovim&logoColor=white&labelColor=101010)]()
 </br>
 [![Java](https://img.shields.io/badge/Java-eb5428?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
