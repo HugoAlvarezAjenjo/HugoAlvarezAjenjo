@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a second-year software engineering student at UPM. I'm passionate about programming and love learning new technologies.
+I'm a third-year software engineering student at UPM. I'm passionate about programming and love learning new technologies.
 
 ## 💻 Basic Tech Stack:
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
