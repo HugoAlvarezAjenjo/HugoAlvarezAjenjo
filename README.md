@@ -13,6 +13,9 @@ I'm a third-year software engineering student at UPM. I'm passionate about progr
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 ![Scala](https://img.shields.io/badge/Scala-d73222?style=for-the-badge&logo=scala&logoColor=white&labelColor=101010)
 </br>
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=101010)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white&labelColor=101010)
+</br>
 [![SQL](https://img.shields.io/badge/SQL-dc7939?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)]()
 [![MySql](https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)]()
