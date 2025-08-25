@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a third-year software engineering student at UPM. I'm passionate about programming and love learning new technologies.
+I'm a fourth-year software engineering student at UPM. I'm passionate about programming and love learning new technologies.
 
 ## 💻 Basic Tech Stack:
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
@@ -12,6 +12,7 @@ I'm a third-year software engineering student at UPM. I'm passionate about progr
 [![Java](https://img.shields.io/badge/Java-eb5428?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 ![Scala](https://img.shields.io/badge/Scala-d73222?style=for-the-badge&logo=scala&logoColor=white&labelColor=101010)
+![Cpp](https://img.shields.io/badge/C++-00427e?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)
 </br>
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=101010)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white&labelColor=101010)
