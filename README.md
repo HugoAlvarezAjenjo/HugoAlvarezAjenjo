@@ -45,7 +45,7 @@
 ## 📊 GitHub Stats:
 <p align="center">
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HugoAlvarezAjenjo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoAlvarezAjenjo&layout=compact&langs_count=8&theme=algolia&hide=jupyter%20notebook"/>
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=HugoAlvarezAjenjo&theme=algolia&layout=compact" alt="Top Languages" />
 </p>
 
 ### 🏆 GitHub Trophies
