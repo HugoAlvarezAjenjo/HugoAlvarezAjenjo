@@ -36,6 +36,8 @@
 <br>
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white&labelColor=101010)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white&labelColor=101010)
+![Obsidian](https://img.shields.io/badge/Obsidian-8B5CF6?style=for-the-badge&logo=obsidian&logoColor=white&labelColor=101010)
+
 
 ## 📫 Contact
 
